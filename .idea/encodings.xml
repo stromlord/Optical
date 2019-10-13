@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../Deep_Learning/Optics/CGH/Multiple_CGH.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Deep_Learning/Structure-illumination/PCA_Aberration.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/Gram_Schmidt_orthonormalization.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/SPS_AFTA.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/SPS_AFTA_4_yi2.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/SPS_FT.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/SPS_Hologram.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/SPS_SIMULATIONS.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/SPS_title.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/general_phase_shift.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/lvbo.m" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../matlab/workSpace/Structure_light/unwrap_one_d.m" charset="GBK" />
+  </component>
+</project>
