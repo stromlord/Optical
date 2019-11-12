@@ -248,3 +248,4 @@ if __name__ == "__main__":
     # plt.subplot(121), plt.imshow(np.abs(U_amplitude), 'gray'), plt.axis('off'), plt.title('Amplitude')
     # plt.subplot(122), plt.imshow(np.abs(U_phase), 'gray'), plt.axis('off'), plt.title('Phase')
     # plt.show()
+

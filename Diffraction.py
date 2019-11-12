@@ -104,7 +104,7 @@ if __name__ == "__main__":
     plt.imshow(U0, 'gray'), plt.axis('off'), plt.title('Raw')
 
     z = dx**2*N/r   # 完全满足采样定律的距离
-    z = 100       # 单位 mm
+    z = 100         # 单位 mm
 
     [U, I, dfx] = fresnel_diff_s_fft(U0, z, dx, r)
     [U, I, dx] = fresnel_diff_s_fft(U, -z, dfx, r)
